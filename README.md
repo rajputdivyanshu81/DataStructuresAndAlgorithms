@@ -1,8 +1,12 @@
 DSA Repository
+
+
 Welcome to the DSA (Data Structures and Algorithms) repository! This repository contains a collection of data structures and algorithms implemented in various programming languages. It is designed to help you understand and practice fundamental concepts in computer science.
 
 Table of Contents
+
 Introduction
+
 Features
 Installation
 Usage
